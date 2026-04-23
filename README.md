@@ -18,7 +18,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/rahul-kumar-19b613206">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/rahul-kumar-19b613206">LinkedIn</a> •
 </p>
 
 ---
@@ -47,10 +47,3 @@
 
 [![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=somewhatRahul&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
----
-
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=somewhatRahul&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
